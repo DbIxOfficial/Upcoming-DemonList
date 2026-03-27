@@ -1,4 +1,4 @@
-# Upcoming DemonList v2
+# TRUE Upcoming DemonList
 
 в гд тиктоке сидят очень странные люди, и это факт (°<°)
 
