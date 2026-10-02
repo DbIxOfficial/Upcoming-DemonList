@@ -524,7 +524,7 @@ async function toggleAdmin() {
 
         const user = await response.json();
 
-        if (user.login !== "KrokGG1") {
+        if (user.login !== "DbIxOfficial") {
             alert("Access denied");
             return;
         }
