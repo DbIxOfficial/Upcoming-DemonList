@@ -88,13 +88,6 @@
       "link": "https://www.youtube.com/watch?v=IvUkcfMWhQY"
     },
     {
-      "name": "Scarlet Sirius",
-      "creator": "TrueOmega",
-      "wr": "N/A",
-      "image": "https://img.youtube.com/vi/I2H0smuw9yU/maxresdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=I2H0smuw9yU"
-    },
-    {
       "name": "Misanthrope",
       "creator": "Brittank88",
       "wr": "48%",
@@ -107,6 +100,13 @@
       "wr": "74%",
       "image": "https://img.youtube.com/vi/bvm5W8cJT3c/maxresdefault.jpg",
       "link": "https://www.youtube.com/watch?v=bvm5W8cJT3c"
+    },
+    {
+      "name": "Scarlet Sirius",
+      "creator": "TrueOmega",
+      "wr": "N/A",
+      "image": "https://img.youtube.com/vi/I2H0smuw9yU/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=I2H0smuw9yU"
     },
     {
       "name": "Vehemence",
