@@ -768,7 +768,7 @@ async function init() {
 
             const user = await response.json();
 
-            if (user.login === "KrokGG1") {
+            if (user.login === "DbIxOfficial") {
 
                 adminMode = true;
                 localStorage.setItem("adminMode", "true");
