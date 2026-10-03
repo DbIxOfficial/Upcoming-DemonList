@@ -109,13 +109,6 @@
       "link": "https://www.youtube.com/watch?v=I2H0smuw9yU"
     },
     {
-      "name": "Vehemence (Madison's one)",
-      "creator": "zYuko",
-      "wr": "41%",
-      "image": "https://img.youtube.com/vi/WE8fKwIephs/maxresdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=WE8fKwIephs"
-    },
-    {
       "separator": "Amethyst"
     },
     {
@@ -131,6 +124,13 @@
       "wr": "60%",
       "image": "https://img.youtube.com/vi/f85Mcy8mwHI/maxresdefault.jpg",
       "link": "https://www.youtube.com/watch?v=f85Mcy8mwHI"
+    },
+    {
+      "name": "Vehemence (Madison's one)",
+      "creator": "zYuko",
+      "wr": "41%",
+      "image": "https://img.youtube.com/vi/WE8fKwIephs/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=WE8fKwIephs"
     },
     {
       "name": "Glass Chapel",
