@@ -133,6 +133,13 @@
       "link": "https://www.youtube.com/watch?v=tU2Jx44LOro"
     },
     {
+      "name": "Ouroboros",
+      "creator": "qmystic",
+      "wr": "73%",
+      "image": "https://img.youtube.com/vi/9VqusfNE5dk/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=9VqusfNE5dk"
+    },
+    {
       "name": "It Means Everything",
       "creator": "Vel",
       "wr": "74%",
@@ -161,14 +168,14 @@
       "link": "https://www.youtube.com/watch?v=qSP2-7Jg-2k"
     },
     {
+      "separator": "Tidal Wave"
+    },
+    {
       "name": "Silent Circles",
       "creator": "Starchman",
       "wr": "85%",
       "image": "https://img.youtube.com/vi/uZsilHbMc2s/maxresdefault.jpg",
       "link": "https://www.youtube.com/watch?v=uZsilHbMc2s"
-    },
-    {
-      "separator": "Tidal Wave"
     },
     {
       "name": "Escalator",
@@ -197,13 +204,6 @@
       "wr": "52%",
       "image": "https://img.youtube.com/vi/yJUFmtYwHYg/maxresdefault.jpg",
       "link": "https://www.youtube.com/watch?v=yJUFmtYwHYg"
-    },
-    {
-      "name": "Ouroboros",
-      "creator": "qmystic",
-      "wr": "73%",
-      "image": "https://img.youtube.com/vi/9VqusfNE5dk/maxresdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=9VqusfNE5dk"
     }
   ],
   "defaultLists": [
